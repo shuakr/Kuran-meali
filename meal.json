@@ -136,10 +136,13 @@
     },
     {
         "ayet_no": 18,
-        "arapca_metin":
+        "arapca_metin":"صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَۙ",
+        "meal_metni": "(Onlar) sağırdırlar, dilsizdirler, kördürler. Bu yüzden onlar (hidayete) dönmezler."
     },
     {
-        
+      "ayet_no": 19,
+      "arapca_metin": "اَوْ كَصَيِّبٍ مِنَ السَّمَٓاءِ ف۪يهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌۚ يَجْعَلُونَ اَصَابِعَهُمْ ف۪ٓي اٰذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِۜ وَاللّٰهُ مُح۪يطٌ بِالْكَافِر۪ينَ",
+      "meal_metni": "Veya (onların misali) gökten boşalan; içerisinde karanlıklar, gök gürültüsü ve şimdşek bulunan bir yağmur (a tutulan kimselerin hali) gibidir. Yıldırımlardan dolayı, ölüm korkusuyla parmaklarını kulaklarına tıkarlar. Allah kafirleri (kudretiyle) çepeçevre kuşatıcıdır."  
     }
     ]
 }
