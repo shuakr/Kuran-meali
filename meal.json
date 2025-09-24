@@ -143,7 +143,62 @@
       "ayet_no": 19,
       "arapca_metin": "اَوْ كَصَيِّبٍ مِنَ السَّمَٓاءِ ف۪يهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌۚ يَجْعَلُونَ اَصَابِعَهُمْ ف۪ٓي اٰذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِۜ وَاللّٰهُ مُح۪يطٌ بِالْكَافِر۪ينَ",
       "meal_metni": "Veya (onların misali) gökten boşalan; içerisinde karanlıklar, gök gürültüsü ve şimdşek bulunan bir yağmur (a tutulan kimselerin hali) gibidir. Yıldırımlardan dolayı, ölüm korkusuyla parmaklarını kulaklarına tıkarlar. Allah kafirleri (kudretiyle) çepeçevre kuşatıcıdır."  
-    }
+    },
+    {
+        "ayet_no": 20,
+        "arapca_metin": "يَكَادُ الْبَرْقُ يَخْطَفُ اَبْصَارَهُمْۜ كُلَّمَٓا اَضَٓاءَ لَهُمْ مَشَوْا ف۪يهِۙ وَاِذَٓا اَظْلَمَ عَلَيْهِمْ قَامُواۜ وَلَوْ شَٓاءَ اللّٰهُ لَذَهَبَ بِسَمْعِهِمْ وَاَبْصَارِهِمْۜ اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ۟",
+        "meal_metni": "O şimşek, nerede ise gözlerini kapıp alıverecek! Ne zaman onlara aydınlık verse, onda (onun ışığında) yürürler; onlara karanlık çöktüğü zaman ise (oldukları yerde) dikilip kalırlar. Allah dileseydi, elbette onların işitmelerini ve görmelerini giderirdi. Şüphesiz ki Allah her şey üzerine kadirdir."
+    },
+    {
+        "ayet_no": 21,
+        "arapca_metin":"يَٓا اَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذ۪ي خَلَقَكُمْ وَالَّذ۪ينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَۙ ",
+        "meal_metni": "Ey insanlar! Sizi ve sizden öncekileri yaratan Rabbinize ibadet edin ki takva sahibi olasınız."
+    },
+    {
+        "ayet_no": 22,
+        "arapca_metin": "اَلَّذ۪ي جَعَلَ لَكُمُ الْاَرْضَ فِرَاشًا وَالسَّمَٓاءَ بِنَٓاءًۖ وَاَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً فَاَخْرَجَ بِه۪ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْۚ فَلَا تَجْعَلُوا لِلّٰهِ اَنْدَادًا وَاَنْتُمْ تَعْلَمُونَ",
+        "meal_metni": "O, sizin için yeryüzünü bir döşek, göğü ise (üstünüze)bir bina (tavan) yapandır. Ve gökten bir su indirip, onunla size rızık olması için mahsuller çıkarandır. Öyle ise sizler (bunları) biliyor olduğunuz halde Allah'a ortak koşmayın!"
+    },
+    {
+        "ayet_no": 23,
+        "arapca_metin": "وَاِنْ كُنْتُمْ ف۪ي رَيْبٍ مِمَّا نَزَّلْنَا عَلٰى عَبْدِنَا فَأْتُوا بِسُورَةٍ مِنْ مِثْلِه۪ۖ وَادْعُوا شُهَدَٓاءَكُمْ مِنْ دُونِ اللّٰهِ اِنْ كُنْتُمْ صَادِق۪ينَ",
+        "meal_metni": "Ve eğer kulumuza indirdiğimizden (Kur'an'dan) şüphe içindeyseniz, haydi onun benzerinden bir sure getirin. Eğer (iddianızda) doğru kimseler iseniz, Allah'tan başka şahitlerinizi (yardımcılarınızı) da çağırın!"
+    },
+    {
+        "ayet_no": 24,
+        "arapca_metin": "فَاِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا فَاتَّقُوا النَّارَ الَّت۪ي وَقُودُهَا النَّاسُ وَالْحِجَارَةُۚ اُعِدَّتْ لِلْكَافِر۪ينَ",
+        "meal_metni": "Şayet yapamazsanız -ki yapamayacaksınız-; o halde, kafirler için hazırlanmış yakıtı insanlar ve taşlar olan o ateşten sakının."
+    },
+    {
+        "ayet_no": 25,
+        "arapca_metin": "وَبَشِّرِ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ اَنَّ لَهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۜ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًاۙ قَالُوا هٰذَا الَّذ۪ي رُزِقْنَا مِنْ قَبْلُ وَاُتُوا بِه۪ مُتَشَابِهًاۜ وَلَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ ف۪يهَا خَالِدُونَ",
+        "meal_metni": "İman edip salih ameller işleyenlere, kendileri için altlarından ırmaklar akan cennetler olduğunu müjdele! Onlar ne zaman rızık olarak oradan, herhangi bir meyveden rızıklandırılırsalar: 'Bu, daha önce rızıklandırıldığımız şeydir!' derler. Çünkü bu (cennet nimetleri), kendilerine birbirine benzer şekilde verilir. Onlar için orada tertemiz zecveler de vardır ve onlar, orada ebedi olarak kalıcıdırlar."
+    },
+    {
+        "ayet_no": 26,
+        "arapca_metin": "اِنَّ اللّٰهَ لَا يَسْتَحْي۪ٓ اَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً فَمَا فَوْقَهَاۜ فَاَمَّا الَّذ۪ينَ اٰمَنُوا فَيَعْلَمُونَ اَنَّهُ الْحَقُّ مِنْ رَبِّهِمْۚ وَاَمَّا الَّذ۪ينَ كَفَرُوا فَيَقُولُونَ مَاذَٓا اَرَادَ اللّٰهُ بِهٰذَا مَثَلًاۢ يُضِلُّ بِه۪ كَث۪يرًا وَيَهْد۪ي بِه۪ كَث۪يرًاۜ وَمَا يُضِلُّ بِه۪ٓ اِلَّا الْفَاسِق۪ينَۙ",
+        "meal_metni": "Şüphesiz ki Allah, bir sivrisineği ve bunun da üstünde bir şeyi misal vermekten çekinmez. İman edenlere gelince; bunun Rablerinden (gelen) hak olduğunu hemen bilirler. İnkar edenlere gelince; onlar şöyle derler: 'Şimdi Allah, bu misal ile ne irade etti?' (Allah,) bununla birçok kimseyi dalalete düşürür, birçok kimseyi de hidayete erdirir. (Allah) bununla fasıklardan başkasını delalete düşürmez."
+    },
+    {
+        "ayet_no": 27,
+        "arapca_metin": "اَلَّذ۪ينَ يَنْقُضُونَ عَهْدَ اللّٰهِ مِنْ بَعْدِ م۪يثَاقِه۪ۖ وَيَقْطَعُونَ مَٓا اَمَرَ اللّٰهُ بِه۪ٓ اَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْاَرْضِۜ اُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+        "meal_metni": "O kimseler ki, Allah'ın ahdini (O'na verdikleri sözü) kabulünden sonra bozarlar (delilleri gördükten sonra haktan yüz çevirirler), Allah'ın birleştirilmesini emrettiği şeyi (akrabalık bağı vb.) keserler ve yeryüzünde fesat çıkarırlar. İşte onlar, zarara uğrayanların ta kendileridir."
+    },
+    {
+        "ayet_no": 28,
+        "arapca_metin": "كَيْفَ تَكْفُرُونَ بِاللّٰهِ وَكُنْتُمْ اَمْوَاتًا فَاَحْيَاكُمْۚ ثُمَّ يُم۪يتُكُمْ ثُمَّ يُحْي۪يكُمْ ثُمَّ اِلَيْهِ تُرْجَعُونَ",
+        "meal_metni": "(Ey kafirler!) Allah'ı nasıl inkar ediyorsunuz ki, sizler ölüler idiniz de size O hayat verdi. Sonra sizi öldürecek, sonra sizi (tekrar) diriltecek, sonra da ancak O'na döndürüleceksiniz."
+    },
+    {
+        "ayet_no": 29,
+        "arapca_metin": "هُوَ الَّذ۪ي خَلَقَ لَكُمْ مَا فِي الْاَرْضِ جَم۪يعًا ثُمَّ اسْتَوٰٓى اِلَى السَّمَٓاءِ فَسَوّٰيهُنَّ سَبْعَ سَمٰوَاتٍۜ وَهُوَ بِكُلِّ شَيْءٍ عَل۪يمٌ۟",
+        "meal_metni": "Yeryüzünde ne varsa tamamını sizin için yaratan, sonra göğe yönelerek onları, yedi gök olarak tesviye eden (düzleyen ve düzenleyen) O'dur. O, her şeyi bilendir."
+    },
+    {
+        "ayet_no": 30,
+        "arapca_metin": "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنّ۪ي جَاعِلٌ فِي الْاَرْضِ خَل۪يفَةًۜ قَالُٓوا اَتَجْعَلُ ف۪يهَا مَنْ يُفْسِدُ ف۪يهَا وَيَسْفِكُ الدِّمَٓاءَۚ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَۜ قَالَ اِنّ۪ٓي اَعْلَمُ مَا لَا تَعْلَمُونَ",
+        "meal_metni": "Bir zaman Rabbin, meleklere: 'Şüphesiz ki ben, yeryüzünde bir halife kılacağım (yaratacağım).' demişti. (Melekler:) 'Orada fesat çıkaracak ve orada kanlar dökecek bir kimseyi mi yaratacaksın? Halbuki biz, (Seni) hamdin ile tesbih ediyoruz ve seni takdis ediyoruz.' dediler. (Rabbin de onlara:) 'Muhakkak ki Ben, sizin bilemeyeceğiniz şeyleri bilirim!' dedi."
+    },
     ]
 }
 ]
