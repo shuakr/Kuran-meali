@@ -4,14 +4,14 @@
   "isim": "Fatiha",
   "ayetler": [
     {
-      "ayet_no": 1,
-      "arapca_metin": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-      "meal_metni": "Rahman ve Rahim olan Allah'ın adı ile (başlıyorum)."
+        "ayet_no": 1,
+        "arapca_metin": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "meal_metni": "Rahman ve Rahim olan Allah'ın adı ile (başlıyorum)."
     },
     {
-      "ayet_no": 2,
-      "arapca_metin": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
-      "meal_metni": "Bütün hamdler (övgüler) alemlerin Rabbi Allah içindir."
+        "ayet_no": 2,
+        "arapca_metin": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "meal_metni": "Bütün hamdler (övgüler) alemlerin Rabbi Allah içindir."
     },
     {
         "ayet_no": 3,
@@ -140,9 +140,9 @@
         "meal_metni": "(Onlar) sağırdırlar, dilsizdirler, kördürler. Bu yüzden onlar (hidayete) dönmezler."
     },
     {
-      "ayet_no": 19,
-      "arapca_metin": "اَوْ كَصَيِّبٍ مِنَ السَّمَٓاءِ ف۪يهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌۚ يَجْعَلُونَ اَصَابِعَهُمْ ف۪ٓي اٰذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِۜ وَاللّٰهُ مُح۪يطٌ بِالْكَافِر۪ينَ",
-      "meal_metni": "Veya (onların misali) gökten boşalan; içerisinde karanlıklar, gök gürültüsü ve şimdşek bulunan bir yağmur (a tutulan kimselerin hali) gibidir. Yıldırımlardan dolayı, ölüm korkusuyla parmaklarını kulaklarına tıkarlar. Allah kafirleri (kudretiyle) çepeçevre kuşatıcıdır."  
+        "ayet_no": 19,
+        "arapca_metin": "اَوْ كَصَيِّبٍ مِنَ السَّمَٓاءِ ف۪يهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌۚ يَجْعَلُونَ اَصَابِعَهُمْ ف۪ٓي اٰذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِۜ وَاللّٰهُ مُح۪يطٌ بِالْكَافِر۪ينَ",
+        "meal_metni": "Veya (onların misali) gökten boşalan; içerisinde karanlıklar, gök gürültüsü ve şimdşek bulunan bir yağmur (a tutulan kimselerin hali) gibidir. Yıldırımlardan dolayı, ölüm korkusuyla parmaklarını kulaklarına tıkarlar. Allah kafirleri (kudretiyle) çepeçevre kuşatıcıdır."  
     },
     {
         "ayet_no": 20,
@@ -259,7 +259,99 @@
         "arapca_metin": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَاَنْتُمْ تَعْلَمُونَ",
         "meal_metni": "Siz, (doğru olanı) bildiğiniz halde hakkı batıl ile karıştırmayın ve hakkı gizlemeyin!" 
     },
-    
+    {
+        "ayet_no": 43,
+        "arapca_metin": "وَاَق۪يمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَ وَارْكَعُوا مَعَ الرَّاكِع۪ينَ",
+        "meal_metni": "Namazı ikame edin (dosdoğru kılın), zekatı verin ve rüku edenlerle beraber rüku edin!"
+    },
+    {
+        "ayet_no": 44,
+        "arapca_metin": "اَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ اَنْفُسَكُمْ وَاَنْتُمْ تَتْلُونَ الْكِتَابَۜ اَفَلَا تَعْقِلُونَ",
+        "meal_metni": "Siz, insanlara iyiliği emrediyor kendinizi unutuyor musunuz? Şüphesiz ki bu Kitabı (Tevrat'ı) da okuyorsunuz. Hala akıllanmayacak mısınız?"
+    },
+    {
+        "ayet_no": 45,
+        "arapca_metin": "وَاسْتَع۪ينُوا بِالصَّبْرِ وَالصَّلٰوةِۜ وَاِنَّهَا لَكَب۪يرَةٌ اِلَّا عَلَى الْخَاشِع۪ينَۙ",
+        "meal_metni": "O halde sabır ve namaz ile (Allah'tan) yardım isteyin! Halbuki şüphesiz O'na döneceklerini zanneden (yakinen inanan) kimselerdir."
+    },
+    {
+        "ayet_no": 46,
+        "arapca_metin": "اَلَّذ۪ينَ يَظُنُّونَ اَنَّهُمْ مُلَاقُوا رَبِّهِمْ وَاَنَّهُمْ اِلَيْهِ رَاجِعُونَ۟",
+        "meal_metni": "Onlar, şüphesiz Rableriyle karşılaşacaklarını ve (yine) şüphesiz O'na döneceklerini zanneden(yakinen inanan) kimselerdir."
+    },
+    {
+        "ayet_no": 47,
+        "arapca_metin": "يَا بَن۪ٓي اِسْرَٓاء۪يلَ اذْكُرُوا نِعْمَتِيَ الَّت۪ٓي اَنْعَمْتُ عَلَيْكُمْ وَاَنّ۪ي فَضَّلْتُكُمْ عَلَى الْعَالَم۪ينَ",
+        "meal_metni": "Ey İsrailoğulları! Size ihsan ettiğim nimet(ler)imi ve gerçekten Benim sizi alemlere (yaşadığınız dönemdeki insanlara) üstün kıldığımı hatırlayın!"
+    },
+    {
+        "ayet_no": 48,
+        "arapca_metin": "وَاتَّقُوا يَوْمًا لَا تَجْز۪ي نَفْسٌ عَنْ نَفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
+        "meal_metni": "Ve öyle bir günden sakının ki, (o gün) kimse, kimse adına bir şey ödeyemez, ondan bir şefaat de kabul edilemez, ondan bir fidye de alınmaz ve onlara yardım da olunmaz!"
+    },
+    {
+        "ayet_no": 49,
+        "arapca_metin": "وَاِذْ نَجَّيْنَاكُمْ مِنْ اٰلِ فِرْعَوْنَ يَسُومُونَكُمْ سُٓوءَ الْعَذَابِ يُذَبِّحُونَ اَبْنَٓاءَكُمْ وَيَسْتَحْيُونَ نِسَٓاءَكُمْۜ وَف۪ي ذٰلِكُمْ بَلَٓاءٌ مِنْ رَبِّكُمْ عَظ۪يمٌ",
+        "meal_metni": "Hem bir zaman sizi Firavun'un yandaşlarından kurtarmıştık; (yeni doğan) oğullarınızı boğazlıyor, kadınlarınızı (kız çocuklarınızı) ise hayatta bırakıyorlardı. İşte bunda, Rabbinizden büyük bir bela (imtihan) vardı."
+    },
+    {
+        "ayet_no": 50,
+        "arapca_metin": "وَاِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَاَنْجَيْنَاكُمْ وَاَغْرَقْنَٓا اٰلَ فِرْعَوْنَ وَاَنْتُمْ تَنْظُرُونَ",
+        "meal_metni": "Hani sizin için denizi yarıp da sizi kurtarmış ve siz (hayretle) bakıp dururken Firavun'un yandaşlarını suda boğmuştuk."
+    },
+    {
+        "ayet_no": 51,
+        "arapca_metin": "وَاِذْ وٰعَدْنَا مُوسٰٓى اَرْبَع۪ينَ لَيْلَةً ثُمَّ اتَّخَذْتُمُ الْعِجْلَ مِنْ بَعْدِه۪ وَاَنْتُمْ ظَالِمُونَ",
+        "meal_metni": "Yine bir vakit Musa ile kırk gece için sözleşmiştik; sonra onun ardından siz zalim kimseler olarak buzağıyı (ilah) edindiniz."
+    },
+    {
+        "ayet_no": 52,
+        "arapca_metin": "ثُمَّ عَفَوْنَا عَنْكُمْ مِنْ بَعْدِ ذٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+        "meal_metni": "Sonra bunun arkasından sizi affettik, umulur ki şükredesiniz."
+    },
+    {
+        "ayet_no": 53,
+        "arapca_metin": "وَاِذْ اٰتَيْنَا مُوسَى الْكِتَابَ وَالْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+        "meal_metni": "Hani Musa'ya Kitab'ı (Tevrat'ı) ve (hak ile batılı birbirinden ayıran) Furkan'ı vermiştik, umulur ki hidayete eresiniz."
+    },
+    {
+        "ayet_no": 54,
+        "arapca_metin": "وَاِذْ قَالَ مُوسٰى لِقَوْمِه۪ يَا قَوْمِ اِنَّكُمْ ظَلَمْتُمْ اَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُٓوا اِلٰى بَارِئِكُمْ فَاقْتُلُٓوا اَنْفُسَكُمْۜ ذٰلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْۜ فَتَابَ عَلَيْكُمْۜ اِنَّهُ هُوَ التَّوَّابُ الرَّح۪يمُ",
+        "meal_metni": "O vakit Musa, kavmine şöyle demişti: 'Ey kavmim! Şüphe yok ki siz, buzağıyı (ilah) edinmekle kendinize zulmettiniz; öyle ise Bari'nize (yaratanınıza) tevbe edip, nefislerinizi (birbirinizi) öldürün (buzağıya tapmayanlar buzağıya tapanları öldürsün)! Bu (haliniz), yaratanınızın katında sizin için daha hayırlıdır.' Bunun üzerine (Allah) tevbenizi kabul etti. Şüphesiz ki O, Tevvab'dır, Rahim'dir."
+    },
+    {
+        "ayet_no": 55,
+        "arapca_metin": "وَاِذْ قُلْتُمْ يَا مُوسٰى لَنْ نُؤْمِنَ لَكَ حَتّٰى نَرَى اللّٰهَ جَهْرَةً فَاَخَذَتْكُمُ الصَّاعِقَةُ وَاَنْتُمْ تَنْظُرُونَ",
+        "meal_metni": "Bir zaman da: 'Ey Musa! (Biz) Allah'ı açıkça görmedikçe asla sana iman etmeyeceğiz!' demiştiniz de siz (olup bitene hayretle) bakıp dururken sizi yıldırım çarpmıştı (ve böylece ölmüştünüz)."
+    },
+    {
+        "ayet_no": 56,
+        "arapca_metin": "ثُمَّ بَعَثْنَاكُمْ مِنْ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+        "meal_metni": "Sonra şükredesiniz diye ölümünüzün ardından sizi dirilttik."
+    },
+    {
+        "ayet_no": 57,
+        "arapca_metin": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَاَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوٰىۜ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْۜ وَمَا ظَلَمُونَا وَلٰكِنْ كَانُٓوا اَنْفُسَهُمْ يَظْلِمُونَ",
+        "meal_metni": "Hem üzerinizi ğamam (bulutlar) ile gölgeledik ve size, Menne (bir tür mantar) ve Selve (bıldırcın) indirdik. (Ve:) 'Sizi rızıklandırdığımız temiz şeylerden yiyin!' (dedik). Onlar, bize zulmetmediler; fakat (aslında) kendilerine zulmediyorlardı."
+    },
+    {
+        "ayet_no": 58,
+        "arapca_metin": "وَاِذْ قُلْنَا ادْخُلُوا هٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْۜ وَسَنَز۪يدُ الْمُحْسِن۪ينَ",
+        "meal_metni": "Yine bir zaman (size) şöyle demiştik: 'Şu şehre girin de ondan dilediğiniz yerde bol bol yiyin; (ama) kapıdan secde eden kimseler olarak girin ve 'Hıtta'(hatalarımızı bağışla) deyin ki sizin için hatalarınızı bağışlayalım!' Çünkü (biz) iyilik edenlere (mükafatlarını daha da) artıracağız."
+    },
+    {
+        "ayet_no": 59,
+        "arapca_metin": "فَبَدَّلَ الَّذ۪ينَ ظَلَمُوا قَوْلًا غَيْرَ الَّذ۪ي ق۪يلَ لَهُمْ فَاَنْزَلْنَا عَلَى الَّذ۪ينَ ظَلَمُوا رِجْزًا مِنَ السَّمَٓاءِ بِمَا كَانُوا يَفْسُقُونَ۟",
+        "meal_metni": "Fakat o zulmedenler, sözü, kendilerine söylenenin dışında başka bir sçzle değiştirdiler; Biz de fısk işliyor olmalarından dolayı zulmedenlerin üzerine gökten bir azap indirdik."
+    },
+    {
+        "ayet_no": 60,
+        "arapca_metin": "وَاِذِ اسْتَسْقٰى مُوسٰى لِقَوْمِه۪ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَۜ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًاۜ قَدْ عَلِمَ كُلُّ اُنَاسٍ مَشْرَبَهُمْۜ كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللّٰهِ وَلَا تَعْثَوْا فِي الْاَرْضِ مُفْسِد۪ينَ",
+        "meal_metni": "Ve bir zaman Musa kavmi için su istemişti de (ona): 'Asanla taşa vur!' dedik. Bunun üzerine (taşa vurunca) ondan on iki pınar fışkırdı. Doğrusu insanların tamamı (her kabile) (su) içeceği yeri bildi. (Onlara şöyle dedik:) 'Allah'ın (size lutfettiği) rızkından yiyin, için; fakat fesat çıkarıcılar olarak yeryüzünde bozgunculuk yapmayın!'"
+    },
+    {
+        "ayet_no": 61
+    }
     ]
 }
 ]
