@@ -199,6 +199,67 @@
         "arapca_metin": "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنّ۪ي جَاعِلٌ فِي الْاَرْضِ خَل۪يفَةًۜ قَالُٓوا اَتَجْعَلُ ف۪يهَا مَنْ يُفْسِدُ ف۪يهَا وَيَسْفِكُ الدِّمَٓاءَۚ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَۜ قَالَ اِنّ۪ٓي اَعْلَمُ مَا لَا تَعْلَمُونَ",
         "meal_metni": "Bir zaman Rabbin, meleklere: 'Şüphesiz ki ben, yeryüzünde bir halife kılacağım (yaratacağım).' demişti. (Melekler:) 'Orada fesat çıkaracak ve orada kanlar dökecek bir kimseyi mi yaratacaksın? Halbuki biz, (Seni) hamdin ile tesbih ediyoruz ve seni takdis ediyoruz.' dediler. (Rabbin de onlara:) 'Muhakkak ki Ben, sizin bilemeyeceğiniz şeyleri bilirim!' dedi."
     },
+    {
+        "ayet_no": 31,
+        "arapca_metin": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلٰٓئِكَةِ فَقَالَ اَنْبِؤُ۫ن۪ي بِاَسْمَٓاءِ هٰٓؤُ۬لَٓاءِ اِنْ كُنْتُمْ صَادِق۪ينَ",
+        "meal_metni": "Ve (Allah) Adem'e (eşyanın) isimlerinin hepsini öğretti, sonra onları meleklere arzederek: 'Eğer (iddianızda) doğru kimseler iseniz, haydi şunların isimlerini bana bildirin!' dedi."
+    },
+    {
+        "ayet_no": 32,
+        "arapca_metin": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَاۜ اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+        "meal_metni": "(Melekler) dediler ki: 'Seni (her türlü noksanlıktan) tenzih ederiz. Senin bize öğrettiklerinden başka bizim için bir ilim yoktur. Muhakkak ki Alim ve Hakim (olan) ancak Sensin!'"
+    },
+    {
+        "ayet_no": 33,
+        "arapca_metin": "قَالَ يَٓا اٰدَمُ اَنْبِئْهُمْ بِاَسْمَٓائِهِمْۚ فَلَمَّٓا اَنْبَاَهُمْ بِاَسْمَٓائِهِمْۙ قَالَ اَلَمْ اَقُلْ لَكُمْ اِنّ۪ٓي اَعْلَمُ غَيْبَ السَّمٰوَاتِ وَالْاَرْضِ وَاَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+        "meal_metni": "(Allah) şöyle buyurdu: 'Ey Adem! Onların isimlerini onlara (meleklere) bildir!' Bunun üzerine (Adem) onların isimlerini onlara bildirince, (Allah) şöyle buyurdu: 'Ben size demedim mi; göklerin ve yerin gaybını (size gizli olan sırlarını) şüphesiz Ben bilirim! Ve siz neyi açıklarsanız ve (içinizde) neyi gizlerseniz,Ben bilirim!'"
+    },
+    {
+        "ayet_no": 34,
+        "arapca_metin": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَۜ اَبٰى وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِر۪ينَ",
+        "meal_metni": "O vakit meleklere: 'Adem'e secde edin!'demiştik. İblis hariç, secde ettiler. O, diretti, kibirlendi ve böylece kafirlerden oldu."
+    },
+    {
+        "ayet_no": 35,
+        "arapca_metin": "وَقُلْنَا يَٓا اٰدَمُ اسْكُنْ اَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَاۖ وَلَا تَقْرَبَا هٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِم۪ينَ",
+        "meal_metni": "Hem demiştik ki: 'Ey Adem!' Sen ve zevcen (Havva) cennete yerleşin; dilediğiniz yerde ondan bol bol yiyin, fakat şu ağaca yaklaşmayın, sonra zalimlerden olursunuz!"
+    },
+    {
+        "ayet_no": 36,
+        "arapca_metin": "فَاَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَاَخْرَجَهُمَا مِمَّا كَانَا ف۪يهِۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۚ وَلَكُمْ فِي الْاَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ اِلٰى ح۪ينٍ",
+        "meal_metni": "Derken şeytan, o ikisini oradan kaydırdı da içinde bulundukları şeyden (o nimetten) onları çıkardı. Bunun üzerine şöyle dedik: 'Birbirinize düşmen olarak inin! Artık sizin için yeryüzünde bir zamana kadar bir yerleşme ve bir faydalanma vardır.'"
+    },
+    {
+        "ayet_no": 37,
+        "arapca_metin": "فَتَلَقّٰٓى اٰدَمُ مِنْ رَبِّه۪ كَلِمَاتٍ فَتَابَ عَلَيْهِۜ اِنَّهُ هُوَ التَّوَّابُ الرَّح۪يمُ",
+        "meal_metni": "Nihayet Adem, Rabbinden birtakım kelimeler aldı (ve onlarlayalvarıp tevbe etti), bunun üzerine (Rabbi) tevbesini kabul etti. Çünkü O;Tevvab'dır(tevbeleri çokça kabul edendir) ve Rahim'dir."
+    },
+    {
+        "ayet_no": 38,
+        "arapca_metin": "قُلْنَا اهْبِطُوا مِنْهَا جَم۪يعًاۚ فَاِمَّا يَأْتِيَنَّكُمْ مِنّ۪ي هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "meal_metni": "(Onlara şöyle) dedik: 'Hep birlikte oradan inin!' Artık Benden, size bir hidayet (Peygamber ve kitap) gelir de kim hidayetime tabi olursa, o takdirde onlara hiçbir korku yoktur, onlar mahzun da olmazlar."
+    },
+    {
+        "ayet_no": 39,
+        "arapca_metin": "وَالَّذ۪ينَ كَفَرُوا وَكَذَّبُوا بِاٰيَاتِنَٓا اُو۬لٰٓئِكَ اَصْحَابُ النَّارِۚ هُمْ ف۪يهَا خَالِدُونَ۟",
+        "meal_metni": "O inkar edip ayetlerimizi yalanlayanlara gelince; işte onlar ateş ehlidirler! Onlar orada ebedi olarak kalıcıdırlar."
+    },
+    {
+        "ayet_no": 40,
+        "arapca_metin": "يَا بَن۪ٓي اِسْرَٓاء۪يلَ اذْكُرُوا نِعْمَتِيَ الَّت۪ٓي اَنْعَمْتُ عَلَيْكُمْ وَاَوْفُوا بِعَهْد۪ٓي اُو۫فِ بِعَهْدِكُمْ وَاِيَّايَ فَارْهَبُونِ",
+        "meal_metni": "Ey İsrailoğulları! Benim de size verdiğim nimet(ler)imi hatırlayın ve Bana verdiğiniz sözü yerine getirin ki, ben de size verdiğim sözü yerine getireyim. Yalnızca Benden korkun!"
+    },
+    {
+        "ayet_no": 41,
+        "arapca_metin": "وَاٰمِنُوا بِمَٓا اَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُٓوا اَوَّلَ كَافِرٍ بِه۪ۖ وَلَا تَشْتَرُوا بِاٰيَات۪ي ثَمَنًا قَل۪يلًاۘ وَاِيَّايَ فَاتَّقُونِ",
+        "meal_metni": "Beraberinizde olanı (Tevrat ve İncil'i) tasdik edici olarak indirdiğime de iman edin ve (Kur'an'ı) da inkar eden(ler)in ilki siz olmayın! Ve ayetlerimi, az bir fiyat karşılığında satmayın ve artık yalnızca benden sakının!"
+    },
+    {
+        "ayet_no": 42,
+        "arapca_metin": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَاَنْتُمْ تَعْلَمُونَ",
+        "meal_metni": "Siz, (doğru olanı) bildiğiniz halde hakkı batıl ile karıştırmayın ve hakkı gizlemeyin!" 
+    },
+    
     ]
 }
 ]
