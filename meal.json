@@ -1485,7 +1485,391 @@
     "sure_no": 3,
     "isim": "Al-İ İmran",
     "ayetler": [
-        
+        {
+        "ayet_no": 1,
+        "arapca_metin": "الٓمٓۚ",
+        "meal_metni": "Elif-Lam-Mim"
+    },
+    {
+        "ayet_no": 2,
+        "arapca_metin": "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۙ الْحَيُّ الْقَيُّومُۜ",
+        "meal_metni": "Allah ki, O'ndan başka hak ilah yoktur. (O,) Hayy'dır, Kayyum'dur."
+    },
+    {
+        "ayet_no": 3,
+        "arapca_metin": "نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَاَنْزَلَ التَّوْرٰيةَ وَالْاِنْج۪يلَۙ",
+        "meal_metni": "(O), sana Kitab'ı, kendinden öncekileri (diğer kitapları) tasdik edici olarak hak ile (kendsinde bir şüphe olmaksızın) indirdi; daha önce de, Tevrat ile İncil'i indirdi."
+    },
+    {
+        "ayet_no": 4,
+        "arapca_metin": "مِنْ قَبْلُ هُدًى لِلنَّاسِ وَاَنْزَلَ الْفُرْقَانَۜ اِنَّ الَّذ۪ينَ كَفَرُوا بِاٰيَاتِ اللّٰهِ لَهُمْ عَذَابٌ شَد۪يدٌۜ وَاللّٰهُ عَز۪يزٌ ذُو انْتِقَامٍ",
+        "meal_metni": "Önceden insanlara hidayet olarak (Tevrat ve İncil'i indirmişken, şimdi de), Furkan'ı (Kur'an'ı) indirdi. Allah'ın ayetlerini inkar edenler için şiddetli bir azap vardır. Allah; Aziz'dir, intikam alıcıdır."
+    },
+    {
+        "ayet_no": 5,
+        "arapca_metin": "اِنَّ اللّٰهَ لَا يَخْفٰى عَلَيْهِ شَيْءٌ فِي الْاَرْضِ وَلَا فِي السَّمَٓاءِۜ",
+        "meal_metni": "Şüphesiz ki ne yerde ne de gökte, hiçbir şey Allah'a gizli kalmaz!"
+    },
+    {
+        "ayet_no": 6,
+        "arapca_metin": "هُوَ الَّذ۪ي يُصَوِّرُكُمْ فِي الْاَرْحَامِ كَيْفَ يَشَٓاءُۜ لَٓا اِلٰهَ اِلَّا هُوَ الْعَز۪يزُ الْحَك۪يمُ",
+        "meal_metni": "Sizi (analarınızın) rahimler(in)de nasıl dilerse (öyle) şekillendiren O'dur. O'ndan başka hak ilah yoktur; (O,) Aziz'dir, Hakim'dir."
+    },
+    {
+        "ayet_no": 7,
+        "arapca_metin": "هُوَ الَّذ۪ٓي اَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ اٰيَاتٌ مُحْكَمَاتٌ هُنَّ اُمُّ الْكِتَابِ وَاُخَرُ مُتَشَابِهَاتٌۜ فَاَمَّا الَّذ۪ينَ ف۪ي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَٓاءَ الْفِتْنَةِ وَابْتِغَٓاءَ تَأْو۪يلِه۪ۚ وَمَا يَعْلَمُ تَأْو۪يلَهُٓ اِلَّا اللّٰهُۢ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ اٰمَنَّا بِه۪ۙ كُلٌّ مِنْ عِنْدِ رَبِّنَاۚ وَمَا يَذَّكَّرُ اِلَّٓا اُو۬لُوا الْاَلْبَابِ",
+        "meal_metni": "Sana Kitab'ı indiren O'dur; onun bir kısmı muhkem (delil olma yönleri açık olan ve kimseye kapalı olmayan) ayetlerdir ki onlar kitabın anasıdır; diğerleri ise müteşabih (delil olma yönlerinde bir karışıklık/benzerlik olan ayetler)dir. Ama kalplerinde bir eğrilik bulunanlar, fitne çıkarmak ve onun tevilini aramak (Kur'an'ı istedikleri manaya gelecek şekilde tahrif etmek) için ondan müteşabih olanının peşine düşerler. Halbuki onun tevilini (gerçek tefsirini) ancak Allah bilir, ilimde rasih (uzman) olanlar da. (Onlar:) \"(Biz) ona inandık, hepsi Rabbimiz tarafındandır!\" derler. Ve akıl sahiplerinden başkası ibret almaz."
+    },
+    {
+        "ayet_no": 8,
+        "arapca_metin": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةًۚ اِنَّكَ اَنْتَ الْوَهَّابُ",
+        "meal_metni": "(Onlar şöyle derler:) \"Rabbimiz! Bizi hidayete erdirdikten sonra kalplerimizi (haktan) eğriltme ve bize, tarafından bir rahmet ihsan et! Şüphesiz ki Sen, Evet Sen Vehhab'sın (karşılık beklemeden bol bol verensin, lütfu çok olansın).\""
+    },
+    {
+        "ayet_no": 9,
+        "arapca_metin": "رَبَّنَٓا اِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَا رَيْبَ ف۪يهِۜ اِنَّ اللّٰهَ لَا يُخْلِفُ الْم۪يعَادَ۟",
+        "meal_metni": "\"Rabbimiz! Hakkında şüphe olmayan bir günde (ahiret gününde), insanları bir araya getirici olan muhakkak ki Sensin!\" Şüphesiz ki Allah Allah, vaadinden dönmez."
+    },
+    {
+        "ayet_no": 10,
+        "arapca_metin": "اِنَّ الَّذ۪ينَ كَفَرُوا لَنْ تُغْنِيَ عَنْهُمْ اَمْوَالُهُمْ وَلَٓا اَوْلَادُهُمْ مِنَ اللّٰهِ شَيْـًٔاۜ وَاُو۬لٰٓئِكَ هُمْ وَقُودُ النَّارِۙ",
+        "meal_metni": "Şüphesiz ki inkar edenlerin ne malları ne de evlatları, Allah'a karşı kendilerine hiçbir şeyle fayda vermeyecektir! Onlar, evet onlar; (cehennem) ateşinin yakıtıdır."
+    },
+    {
+        "ayet_no": 11,
+        "arapca_metin": "كَدَأْبِ اٰلِ فِرْعَوْنَۙ وَالَّذ۪ينَ مِنْ قَبْلِهِمْۜ كَذَّبُوا بِاٰيَاتِنَاۚ فَاَخَذَهُمُ اللّٰهُ بِذُنُوبِهِمْۜ وَاللّٰهُ شَد۪يدُ الْعِقَابِ",
+        "meal_metni": "(Bunların adeti de aynen) Firavunun ehlinin ve onlardan öncekilerin adeti (yaptığı) gibi. Onlar da ayetlerimizi yalanlamışlardı. Allah da onları, günahları sebebi ile yakalayıvermişti. Allah, azabı pek şiddetli olandır."
+    },
+    {
+        "ayet_no": 12,
+        "arapca_metin": "قُلْ لِلَّذ۪ينَ كَفَرُوا سَتُغْلَبُونَ وَتُحْشَرُونَ اِلٰى جَهَنَّمَۜ وَبِئْسَ الْمِهَادُ",
+        "meal_metni": "O inkar edenlere de ki: \"Yakında (dünyada) mağlup olacaksınız ve cehennemde toplanacaksınız! Ki (o,) ne kötü bir yataktır!\""
+    },
+    {
+        "ayet_no": 13,
+        "arapca_metin": "قَدْ كَانَ لَكُمْ اٰيَةٌ ف۪ي فِئَتَيْنِ الْتَقَتَاۜ فِئَةٌ تُقَاتِلُ ف۪ي سَب۪يلِ اللّٰهِ وَاُخْرٰى كَافِرَةٌ يَرَوْنَهُمْ مِثْلَيْهِمْ رَأْيَ الْعَيْنِۜ وَاللّٰهُ يُؤَيِّدُ بِنَصْرِه۪ مَنْ يَشَٓاءُۜ اِنَّ ف۪ي ذٰلِكَ لَعِبْرَةً لِاُو۬لِي الْاَبْصَارِ",
+        "meal_metni": "(Bedir'de) karşılaşan iki toplulukta elbette (Allah'ın dinini kuvvetlendireceğine ve Peygamberine yardım edeceğine dair) sizin için bir delil vardır. Bir topluluk Allah yolunda savaşıyordu, diğeri ise kafir idi ki, kendi gözlerinin görüşleriyle onları kendilerinin iki misli olarak görüyorlardı. Allah, dilediği kimseye yardımı ile destek verir. Muhakkak ki bunda, basiret sahipleri için gerçekten bir ibret vardır."
+    },
+    {
+        "ayet_no": 14,
+        "arapca_metin": "زُيِّنَ لِلنَّاسِ حُبُّ الشَّهَوَاتِ مِنَ النِّسَٓاءِ وَالْبَن۪ينَ وَالْقَنَاط۪يرِ الْمُقَنْطَرَةِ مِنَ الذَّهَبِ وَالْفِضَّةِ وَالْخَيْلِ الْمُسَوَّمَةِ وَالْاَنْعَامِ وَالْحَرْثِۜ ذٰلِكَ مَتَاعُ الْحَيٰوةِ الدُّنْيَاۚ وَاللّٰهُ عِنْدَهُ حُسْنُ الْمَاٰبِ",
+        "meal_metni": "Kadınlar, oğullar, yığılmış yüklerle (çok sayıda) altın ve gümüş yığınları, salma atlar, sağmal hayvanlar ve ekinlerden nefsin arzu duyduğu şeylerin sevgisi insanlara süslendi (güzel gösterildi). Bunlar dünya hayatının (geçici) menfaatidir. Halbuki varılacak yerin güzeli, ancak Allah katındadır."
+    },
+    {
+        "ayet_no": 15,
+        "arapca_metin": "قُلْ اَؤُ۬نَبِّئُكُمْ بِخَيْرٍ مِنْ ذٰلِكُمْۜ لِلَّذ۪ينَ اتَّقَوْا عِنْدَ رَبِّهِمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَا وَاَزْوَاجٌ مُطَهَّرَةٌ وَرِضْوَانٌ مِنَ اللّٰهِۜ وَاللّٰهُ بَص۪يرٌ بِالْعِبَادِۚ",
+        "meal_metni": "De ki: \"Size bunlardan (bu süslenmiş dünya menfaatlerinden) daha hayırlısını haber vereyim mi?\" Sakınanlar için Rableri katında altlarından nehirler akan, içinde ebedi olarak kalıcı oldukları cennetler, tertemiz zevceler ve Allah'tan bir rıdvan (razı olması) vardır! Allah, kulları hakkıyla görendir."
+    },
+    {
+        "ayet_no": 16,
+        "arapca_metin": "اَلَّذ۪ينَ يَقُولُونَ رَبَّنَٓا اِنَّنَٓا اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِۚ",
+        "meal_metni": "Onlar (o takva sahipleri) ki şöyle derler: \"Rabbimiz! Muhakkak ki biz iman ettik; artık günahlarımızı bize bağışla ve bizi ateşin azabından koru!\""
+    },
+    {
+        "ayet_no": 17,
+        "arapca_metin": "اَلصَّابِر۪ينَ وَالصَّادِق۪ينَ وَالْقَانِت۪ينَ وَالْمُنْفِق۪ينَ وَالْمُسْتَغْفِر۪ينَ بِالْاَسْحَارِ",
+        "meal_metni": "(Onlar:) Sabredenler, (imanlarında) sadık olanlar, itaatte sürekli olanlar, infak edenler ve seherlerde (imsak vaktinden önceki gecenin son kısmında) mağfiret isteyenlerdir."
+    },
+    {
+        "ayet_no": 18,
+        "arapca_metin": "شَهِدَ اللّٰهُ اَنَّهُ لَٓا اِلٰهَ اِلَّا هُوَۙ وَالْمَلٰٓئِكَةُ وَاُو۬لُوا الْعِلْمِ قَٓائِمًا بِالْقِسْطِۜ لَٓا اِلٰهَ اِلَّا هُوَ الْعَز۪يزُ الْحَك۪يمُۜ",
+        "meal_metni": "Allah, adaleti ayakta tutarak kendisinden başka hak ilah olmadığına şahitlik etti; melekler ve ilim sahipleri de (adaleti ayakta tutarak buna şahitlik ettiler). O'ndan başka hak ilah yoktur. (O,) Aziz'dir, Hakim'dir."
+    },
+    {
+        "ayet_no": 19,
+        "arapca_metin": "اِنَّ الدّ۪ينَ عِنْدَ اللّٰهِ الْاِسْلَامُ۠ وَمَا اخْتَلَفَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ اِلَّا مِنْ بَعْدِ مَا جَٓاءَهُمُ الْعِلْمُ بَغْيًا بَيْنَهُمْۜ وَمَنْ يَكْفُرْ بِاٰيَاتِ اللّٰهِ فَاِنَّ اللّٰهَ سَر۪يعُ الْحِسَابِ",
+        "meal_metni": "Muhakkak ki Allah katında (tek geçerli) din, İslâm'dır! Kendilerine kitap verilenler, ancak kendilerine ilim geldikten sonra aralarındaki bağyden (haset, buğz ve zulümden) dolayı ihtilafa düştüler. Artık her kim Allah'ın ayetlerini inkâr ederse, şüphesiz ki Allah, hesabı pek çabuk görendir."
+    },
+    {
+        "ayet_no": 20,
+        "arapca_metin": "فَاِنْ حَٓاجُّوكَ فَقُلْ اَسْلَمْتُ وَجْهِيَ لِلّٰهِ وَمَنِ اتَّبَعَنِۜ وَقُلْ لِلَّذ۪ينَ اُو۫تُوا الْكِتَابَ وَالْاُمِّيّ۪نَ ءَاَسْلَمْتُمْۜ فَاِنْ اَسْلَمُوا فَقَدِ اهْتَدَوْاۚ وَاِنْ تَوَلَّوْا فَاِنَّمَا عَلَيْكَ الْبَلَاغُۜ وَاللّٰهُ بَص۪يرٌ بِالْعِبَادِ۟",
+        "meal_metni": "Onlar, seninle (tevhid ve Allah'ın emirleri hususunda) tartışırlarsa (mücadele ederlerse), artık sen de şöyle de: \"Ben, kendimi Allah'a teslim ettim, bana tabi olanlar da!\" Kendilerine kitap verilenlere (Yahudilere ve Hristiyanlara) ve (Arap müşriklerinden) ümmilere de ki: \"Siz de teslim oldunuz mu?\" Bunun üzerine İslam'a girerlerse, o halde muhakkak doğru yola ermiş olurlar. Artık yüz çevirirlerse, o takdirde sana düşen ancak tebliğdir. Allah ise, kulları(nı) hakkıyla görendir."
+    },
+    {
+        "ayet_no": 21,
+        "arapca_metin": "اِنَّ الَّذ۪ينَ يَكْفُرُونَ بِاٰيَاتِ اللّٰهِ وَيَقْتُلُونَ النَّبِيّ۪نَ بِغَيْرِ حَقٍّۙ وَيَقْتُلُونَ الَّذ۪ينَ يَأْمُرُونَ بِالْقِسْطِ مِنَ النَّاسِۙ فَبَشِّرْهُمْ بِعَذَابٍ اَل۪يمٍ",
+        "meal_metni": "Doğrusu Allah'ın ayetlerini inkar edenlere, haksız yere peygamberleri öldürenlere ve insanlardan adaleti emredenleri öldürenlere gelince; artık onları elemli bir azap ile müjdele!"
+    },
+    {
+        "ayet_no": 22,
+        "arapca_metin": "اُو۬لٰٓئِكَ الَّذ۪ينَ حَبِطَتْ اَعْمَالُهُمْ فِي الدُّنْيَا وَالْاٰخِرَةِۘ وَمَا لَهُمْ مِنْ نَاصِر۪ينَ",
+        "meal_metni": "İşte onlar, dünya ve ahirette amelleri boşa gitmiş kimselerdir. Onlar için yardımcılardan kimse de yoktur."
+    },
+    {
+        "ayet_no": 23,
+        "arapca_metin": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ اُو۫تُوا نَص۪يبًا مِنَ الْكِتَابِ يُدْعَوْنَ اِلٰى كِتَابِ اللّٰهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلّٰى فَر۪يقٌ مِنْهُمْ وَهُمْ مُعْرِضُونَ",
+        "meal_metni": "Kendilerine Kitaptan bir nasip verilenleri (Yahudileri ve Hristiyanları) görmedin mi? Onlar, aralarında hüküm vermesi için Allah'ın kitabına çağırılıyorlar; sonra da onlardan bir kısmı yüz çevirerek dönüp gidiyor."
+    },
+    {
+        "ayet_no": 24,
+        "arapca_metin": "ذٰلِكَ بِاَنَّهُمْ قَالُوا لَنْ تَمَسَّنَا النَّارُ اِلَّٓا اَيَّامًا مَعْدُودَاتٍۖ وَغَرَّهُمْ ف۪ي د۪ينِهِمْ مَا كَانُوا يَفْتَرُونَ",
+        "meal_metni": "Bu (yüz çevirmeleri), şüphesiz onların: \"Sayılı birkaç günden başka, bize ateş asla dokunmayacaktır!\" demeleri yüzündendir. Ve uydurmakta oldukları şeyler, dinleri hususunda kendilerini aldatmıştır."
+    },
+    {
+        "ayet_no": 25,
+        "arapca_metin": "فَكَيْفَ اِذَا جَمَعْنَاهُمْ لِيَوْمٍ لَا رَيْبَ ف۪يهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+        "meal_metni": "Peki, hakkında hiç şüphe olmayan (geleceği muhakkak) bir günde (kıyamet gününde) onları bir araya getirdiğimiz ve herkese kazandığı (amellerin karşılığı) tam olarak verilip de kendilerine haksızlık edilmediği zaman (halleri) nasıl olacak!"
+    },
+    {
+        "ayet_no": 26,
+        "arapca_metin": "قُلِ اللّٰهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَنْ تَشَٓاءُ وَتَنْزِعُ الْمُلْكَ مِمَّنْ تَشَٓاءُۘ وَتُعِزُّ مَنْ تَشَٓاءُ وَتُذِلُّ مَنْ تَشَٓاءُۜ بِيَدِكَ الْخَيْرُۜ اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+        "meal_metni": "De ki: \"Ey mülkün sahibi olan Allah'ım! Dilediğine mülkü verirsin, dilediğinden de mülkü çeker alırsın! Dilediğini aziz edersin (yüceltirsin), dilediğini de zelil (hakir) kılarsın! Hayır (fayda verecek şeyler ancak) Senin elindedir! Şüphesiz ki Sen, herşey üzerine kadirsin!\""
+    },
+    {
+        "ayet_no": 27,
+        "arapca_metin": "تُولِجُ الَّيْلَ فِي النَّهَارِ وَتُولِجُ النَّهَارَ فِي الَّيْلِۘ وَتُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَتُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّۘ وَتَرْزُقُ مَنْ تَشَٓاءُ بِغَيْرِ حِسَابٍ",
+        "meal_metni": "(Birisini uzatmak ve diğerini kısaltmak şeklinde) Geceyi gündüze katarsın, gündüzü de geceye katarsın! Ölüden diriyi çıkarırsın, diriden de ölüyü çıkarırsın! Dilediğini ise hesapsız rızıklandırırsın."
+    },
+    {
+        "ayet_no": 28,
+        "arapca_metin": "لَا يَتَّخِذِ الْمُؤْمِنُونَ الْكَافِر۪ينَ اَوْلِيَٓاءَ مِنْ دُونِ الْمُؤْمِن۪ينَۚ وَمَنْ يَفْعَلْ ذٰلِكَ فَلَيْسَ مِنَ اللّٰهِ ف۪ي شَيْءٍ اِلَّٓا اَنْ تَتَّقُوا مِنْهُمْ تُقٰيةًۜ وَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهُۜ وَاِلَى اللّٰهِ الْمَص۪يرُ",
+        "meal_metni": "Müminler, müminlerin yanı sıra kafirleri dostlar edinmesin! Her kim böyle yaparsa, artık (o kişi) Allah'tan bir şey içinde değildir (O kimse, Allah ile bağını koparmıştır ve Allah'tan uzaktır); ancak onlardan (gelebilecek) bir tehlikeden sakınmanız (için onlara dostluk gösterisinde bulunmanız) müstesna! Allah, sizi kendisinden sakındırır! Dönüş ise ancak Allah'adır."
+    },
+    {
+        "ayet_no": 29,
+        "arapca_metin": "قُلْ اِنْ تُخْفُوا مَا ف۪ي صُدُورِكُمْ اَوْ تُبْدُوهُ يَعْلَمْهُ اللّٰهُۜ وَيَعْلَمُ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+        "meal_metni": "De ki: \"Göğüslerinizde olanı gizleseniz de onu açıklasanız da, Allah onu bilir. O, göklerde olanı da yerde olanı da bilir.\" Allah, herşey üzerine güç yetirendir."
+    },
+    {
+        "ayet_no": 30,
+        "arapca_metin": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَا عَمِلَتْ مِنْ خَيْرٍ مُحْضَرًاۚۛ وَمَا عَمِلَتْ مِنْ سُٓوءٍۚۛ تَوَدُّ لَوْ اَنَّ بَيْنَهَا وَبَيْنَهُٓ اَمَدًا بَع۪يدًاۜ وَيُحَذِّرُكُمُ اللّٰهُ نَفْسَهُۜ وَاللّٰهُ رَؤُ۫فٌ بِالْعِبَادِ۟",
+        "meal_metni": "Her nefsin (kulun), hayır/iyilik olarak ve kötülük olarak yaptığı her ameli hazır olarak bulacağı (hesap) günü, arzu eder ki, keşke onunla (o kötü amelleri ile) kendisi arasında uzak bir mesafe olsa! Allah ise, sizi kendisinden sakındırıyor! Allah, kullara karşı Rauf'tur."
+    },
+    {
+        "ayet_no": 31,
+        "arapca_metin": "قُلْ اِنْ كُنْتُمْ تُحِبُّونَ اللّٰهَ فَاتَّبِعُون۪ي يُحْبِبْكُمُ اللّٰهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْۜ وَاللّٰهُ غَفُورٌ رَح۪يمٌ",
+        "meal_metni": "De ki: \"Eğer Allah'ı seviyorsanız, o halde bana tabi olun ki, Allah da sizi sevsin ve günahlarınızı size bağışlasın!\" Çünkü Allah; Gafur'dur, Rahim'dir."
+    },
+    {
+        "ayet_no": 32,
+        "arapca_metin": "قُلْ اَط۪يعُوا اللّٰهَ وَالرَّسُولَۚ فَاِنْ تَوَلَّوْا فَاِنَّ اللّٰهَ لَا يُحِبُّ الْكَافِر۪ينَ",
+        "meal_metni": "De ki: \"Allah'a ve peygambere itaat edin!\" Şayet yüz çevirirlerse, hiç şüphesiz Allah, kafirleri sevmez."
+    },
+    {
+        "ayet_no": 33,
+        "arapca_metin": "اِنَّ اللّٰهَ اصْطَفٰٓى اٰدَمَ وَنُوحًا وَاٰلَ اِبْرٰه۪يمَ وَاٰلَ عِمْرٰنَ عَلَى الْعَالَم۪ينَۙ",
+        "meal_metni": "Muhakkak ki Allah, Âdem'i, Nuh'u, İbrahim ailesini ve İmran ailesini seçip (kendi zamanlarında) alemlere üstün kıldı."
+    },
+    {
+        "ayet_no": 34,
+        "arapca_metin": "ذُرِّيَّةً بَعْضُهَا مِنْ بَعْضٍۜ وَاللّٰهُ سَم۪يعٌ عَل۪يمٌۚ",
+        "meal_metni": "(Onlar fazilet ve takva açısından) Birbirinden gelme bir nesildi. Allah; Semi'dir, Alim'dir."
+    },
+    {
+        "ayet_no": 35,
+        "arapca_metin": "اِذْ قَالَتِ امْرَاَتُ عِمْرٰنَ رَبِّ اِنّ۪ي نَذَرْتُ لَكَ مَا ف۪ي بَطْن۪ي مُحَرَّرًا فَتَقَبَّلْ مِنّ۪يۚ اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُ",
+        "meal_metni": "Bir zaman İmran'ın hanımı şöyle demişti: \"Rabbim! Gerçekten ben karnımdakini (doğacak çocuğumu, sadece Sana ibadet etmek ve mukaddes evin hizmeti için) azat edilmiş (bir köle) olarak Sana adadım, artık benden kabul buyur! Şüphesiz ki Sen; Semi'sin, Alim'sin!\""
+    },
+    {
+        "ayet_no": 36,
+        "arapca_metin": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ اِنّ۪ي وَضَعْتُهَٓا اُنْثٰىۜ وَاللّٰهُ اَعْلَمُ بِمَا وَضَعَتْۜ وَلَيْسَ الذَّكَرُ كَالْاُنْثٰىۚ وَاِنّ۪ي سَمَّيْتُهَا مَرْيَمَ وَاِنّ۪ٓي اُع۪يذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطَانِ الرَّج۪يمِ",
+        "meal_metni": "Nihayet onu doğurunca: \"Rabbim! Gerçekten ben onu kız doğurdum!\" dedi. Halbuki Allah, onun ne doğurduğunu daha iyi bilendir. Ve erkek, kız gibi değildir. \"Ben ona Meryem adını verdim ve ben, onu ve zürriyetini taşlanmış şeytandan Sana sığındırıyorum!\" (dedi)."
+    },
+    {
+        "ayet_no": 37,
+        "arapca_metin": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَاَنْبَتَهَا نَبَاتًا حَسَنًاۙ وَكَفَّلَهَا زَكَرِيَّاۜ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَۙ وَجَدَ عِنْدَهَا رِزْقًاۚ قَالَ يَا مَرْيَمُ اَنّٰى لَكِ هٰذَاۜ قَالَتْ هُوَ مِنْ عِنْدِ اللّٰهِۜ اِنَّ اللّٰهَ يَرْزُقُ مَنْ يَشَٓاءُ بِغَيْرِ حِسَابٍ",
+        "meal_metni": "Böylece Rabbi, onu güzel bir kabul ile kabul etti, onu güzel bir bitki gibi yetiştirdi ve onu, Zekeriyya'nın himayesine verdi. Ne zaman Zekeriyya onun yanına mabede girse, yanında bir rızık (kış mevsiminde yaz meyveleri; yaz mevsiminde de kış meyveleri) bulurdu. (O:) \"Ey Meryem! Bu sana nereden (geldi)?\" derdi. (O da:) \"Bu, Allah tarafındandır!\" derdi. Şüphesiz ki Allah, dilediğini hesapsız olarak rızıklandırır."
+    },
+    {
+        "ayet_no": 38,
+        "arapca_metin": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۚ قَالَ رَبِّ هَبْ ل۪ي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةًۚ اِنَّكَ سَم۪يعُ الدُّعَٓاءِ",
+        "meal_metni": "Orada Zekeriyya (Allah'ın, Meryem'i yazın kış meyveleriyle, kışın da yaz meyveleriyle rızıklandırdığını görünce, bir çocuğu olmasını arzulayarak) Rabbine dua etti. Dedi ki: \"Rabbim! Bana, tarafından temiz bir zürriyet ihsan et! Şüphesiz ki sen, duayı hakkıyla işitensin.\""
+    },
+    {
+        "ayet_no": 39,
+        "arapca_metin": "فَنَادَتْهُ الْمَلٰٓئِكَةُ وَهُوَ قَٓائِمٌ يُصَلّ۪ي فِي الْمِحْرَابِۙ اَنَّ اللّٰهَ يُبَشِّرُكَ بِيَحْيٰى مُصَدِّقًا بِكَلِمَةٍ مِنَ اللّٰهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِنَ الصَّالِح۪ينَ",
+        "meal_metni": "Derken o, mabedde namaz kılarken ayakta olduğu bir sırada, melekler ona şöyle nida ettiler: \"Doğrusu Allah, sana Allah'tan bir kelimeyi (İsa'yı) tasdik edici, bir seyyid/efendi, hasredilmiş/kısıtlanmış (nefsine hakim) ve salihlerden bir peygamber olarak Yahya'yı müjdeliyor!\""
+    },
+    {
+        "ayet_no": 40,
+        "arapca_metin": "قَالَ رَبِّ اَنّٰى يَكُونُ ل۪ي غُلَامٌ وَقَدْ بَلَغَنِيَ الْكِبَرُ وَامْرَاَت۪ي عَاقِرٌۜ قَالَ كَذٰلِكَ اللّٰهُ يَفْعَلُ مَا يَشَٓاءُ",
+        "meal_metni": "(Zekeriyya) şöyle dedi: \"Rabbim! Doğrusu bana ihtiyarlık geldiği, hanımım da kısır olduğu halde, benim için bir oğul nasıl olur?\" O şöyle dedi: \"Böyledir! Allah, dilediğini yapar!\""
+    },
+    {
+        "ayet_no": 41,
+        "arapca_metin": "قَالَ رَبِّ اجْعَلْ ل۪ٓي اٰيَةًۜ قَالَ اٰيَتُكَ اَلَّا تُكَلِّمَ النَّاسَ ثَلٰثَةَ اَيَّامٍ اِلَّا رَمْزًاۜ وَاذْكُرْ رَبَّكَ كَث۪يرًا وَسَبِّحْ بِالْعَشِيِّ وَالْاِبْكَارِ۟",
+        "meal_metni": "(Zekeriyya) dedi ki: \"Rabbim! (Onun geleceğine dair) bana bir alamet kıl!\" (Rabbi ona şöyle) buyurdu: \"Senin (ona dair) alametin, insanlarla işaret (ile anlaşman) dışında, üç gün konuşamamandır. Rabbini çok zikret ve akşam ve sabah (O'nu) tesbih et!\""
+    },
+    {
+        "ayet_no": 42,
+        "arapca_metin": "وَاِذْ قَالَتِ الْمَلٰٓئِكَةُ يَا مَرْيَمُ اِنَّ اللّٰهَ اصْطَفٰيكِ وَطَهَّرَكِ وَاصْطَفٰيكِ عَلٰى نِسَٓاءِ الْعَالَم۪ينَ",
+        "meal_metni": "Bir vakit de melekler şöyle demişlerdi: \"Ey Meryem! Şüphesiz ki Allah, seni seçti, seni temiz kıldı ve seni alemlerin (kendi zamanındaki) kadınlarına seçkin kıldı.\""
+    },
+    {
+        "ayet_no": 43,
+        "arapca_metin": "يَا مَرْيَمُ اقْنُت۪ي لِرَبِّكِ وَاسْجُد۪ي وَارْكَع۪ي مَعَ الرَّاكِع۪ينَ",
+        "meal_metni": "\"Ey Meryem! Rabbine itaatkar ol, secde et ve rüku edenlerle beraber rüku et!\""
+    },
+    {
+        "ayet_no": 44,
+        "arapca_metin": "ذٰلِكَ مِنْ اَنْبَٓاءِ الْغَيْبِ نُوح۪يهِ اِلَيْكَۜ وَمَا كُنْتَ لَدَيْهِمْ اِذْ يُلْقُونَ اَقْلَامَهُمْ اَيُّهُمْ يَكْفُلُ مَرْيَمَۖ وَمَا كُنْتَ لَدَيْهِمْ اِذْ يَخْتَصِمُونَ",
+        "meal_metni": "Bunlar gayb haberlerindendir ki, onu sana vahyediyoruz. Yoksa içlerinden hangisi Meryem'i himayesine alacak diye kalemlerini (kur'a için) atarlarken, sen onların yanında değildin! Onlar birbirleriyle çekişirlerken de sen yanlarında değildin!"
+    },
+    {
+        "ayet_no": 45,
+        "arapca_metin": "اِذْ قَالَتِ الْمَلٰٓئِكَةُ يَا مَرْيَمُ اِنَّ اللّٰهَ يُبَشِّرُكِ بِكَلِمَةٍ مِنْهُۗ اِسْمُهُ الْمَس۪يحُ ع۪يسَى ابْنُ مَرْيَمَ وَج۪يهًا فِي الدُّنْيَا وَالْاٰخِرَةِ وَمِنَ الْمُقَرَّب۪ينَۙ",
+        "meal_metni": "Hani melekler demişti ki: \"Ey Meryem! Şüphesiz Allah, seni tarafından bir kelimeyle (Allah'ın \"Ol\" emriyle olacak bir çocuk ile) müjdeliyor! İsmi, Mesih Meryemoğlu İsa'dır. Dünya ve ahirette şereflidir ve Allah'a yakın kılınanlardandır.\""
+    },
+    {
+        "ayet_no": 46,
+        "arapca_metin": "وَيُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا وَمِنَ الصَّالِح۪ينَ",
+        "meal_metni": "\"Beşikte (daha konuşma yaşına gelmemişken bir mucize olarak) ve yetişkin²⁴ halde insanlarla konuşacak ve salih kimselerden olacaktır.\""
+    },
+    {
+        "ayet_no": 47,
+        "arapca_metin": "قَالَتْ رَبِّ اَنّٰى يَكُونُ ل۪ي وَلَدٌ وَلَمْ يَمْسَسْن۪ي بَشَرٌۜ قَالَ كَذٰلِكِ اللّٰهُ يَخْلُقُ مَا يَشَٓاءُۜ اِذَا قَضٰٓى اَمْرًا فَاِنَّمَا يَقُولُ لَهُ كُنْ فَيَكُونُ",
+        "meal_metni": "(Meryem:) \"Rabbim! Bana bir insan dokunmadığı (kimseyle cinsel ilişkiye girmediğim) halde benim için bir çocuk nasıl olur?\" dedi. O da şöyle dedi: \"Böyledir! Allah dilediğini yaratır. Bir işe hükmettiğinde, artık ona sadece 'Ol!' der, (o da) hemen oluverir.\""
+    },
+    {
+        "ayet_no": 48,
+        "arapca_metin": "وَيُعَلِّمُهُ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرٰيةَ وَالْاِنْج۪يلَۚ",
+        "meal_metni": "\"Ona (İsa'ya) kitabı (yazmayı), hikmeti, Tevrat'ı ve İncil'i öğretecek!\""
+    },
+    {
+        "ayet_no": 49,
+        "arapca_metin": "وَرَسُولًا اِلٰى بَن۪ٓي اِسْرَٓاء۪يلَ اَنّ۪ي قَدْ جِئْتُكُمْ بِاٰيَةٍ مِنْ رَبِّكُمْۙ اَنّ۪ٓي اَخْلُقُ لَكُمْ مِنَ الطّ۪ينِ كَهَيْـَٔةِ الطَّيْرِ فَاَنْفُخُ ف۪يهِ فَيَكُونُ طَيْرًا بِاِذْنِ اللّٰهِۚ وَاُبْرِئُ الْاَكْمَهَ وَالْاَبْرَصَ وَاُحْيِ الْمَوْتٰى بِاِذْنِ اللّٰهِۚ وَاُنَبِّئُكُمْ بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَۙ ف۪ي بُيُوتِكُمْۜ اِنَّ ف۪ي ذٰلِكَ لَاٰيَةً لَكُمْ اِنْ كُنْتُمْ مُؤْمِن۪ينَۚ",
+        "meal_metni": "Ve İsrailoğullarına (gönderilen) bir peygamber olarak (şöyle diyecek): \"Hiç şüphesiz ben, size Rabbinizden bir ayet (mucize) ile geldim. Doğrusu ben, size çamurdan kuş şekli gibi birşey yapıp içine üflerim, Allah'ın izniyle (o) hemen bir kuş olur! Allah'ın izniyle (anadan doğma) körü ve (teni) alacalıyı iyi ederim, ölüleri de diriltirim! Ve evlerinizde ne yiyorsanız ve ne biriktiriyorsanız size bildiririm! Eğer mümin kimseler iseniz, şüphesiz bunda sizin için elbette (getirmiş olduğum şeylerin doğruluğuna) bir ayet (delil) vardır.\""
+    },
+    {
+        "ayet_no": 50,
+        "arapca_metin": "وَمُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرٰيةِ وَلِاُحِلَّ لَكُمْ بَعْضَ الَّذ۪ي حُرِّمَ عَلَيْكُمْ وَجِئْتُكُمْ بِاٰيَةٍ مِنْ رَبِّكُمْ فَاتَّقُوا اللّٰهَ وَاَط۪يعُونِ",
+        "meal_metni": "\"Hem benden önce gelen Tevrat'ı tasdik edici olarak ve size haram kılınan bazı şeyleri size helal kılayım diye (geldim) ve (size söylediğim şeylerdeki doğruluğuma işaret edecek) bir ayet (delil) getirdim; artık Allah'tan sakının ve bana itaat edin!\""
+    },
+    {
+        "ayet_no": 51,
+        "arapca_metin": "اِنَّ اللّٰهَ رَبّ۪ي وَرَبُّكُمْ فَاعْبُدُوهُۜ هٰذَا صِرَاطٌ مُسْتَق۪يمٌ",
+        "meal_metni": "\"Muhakkak ki Allah, benim de Rabbim, sizin de Rabbinizdir; öyle ise O'na ibadet edin! İşte bu, dosdoğru bir yoldur.\""
+    },
+    {
+        "ayet_no": 52,
+        "arapca_metin": "فَلَمَّٓا اَحَسَّ ع۪يسٰى مِنْهُمُ الْكُفْرَ قَالَ مَنْ اَنْصَار۪ٓي اِلَى اللّٰهِۜ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنْصَارُ اللّٰهِۚ اٰمَنَّا بِاللّٰهِۚ وَاشْهَدْ بِاَنَّا مُسْلِمُونَ",
+        "meal_metni": "Sonunda İsa, onlardan küfrü hissedince: \"Allah'a (giden yola davet hususunda) benim yardımcılarım kimlerdir?\" dedi. Havariler (Yardımcılar): \"Biz, Allah'ın (dininin) yardımcılarıyız. Allah'a iman ettik. Hem şahit ol ki; biz, şüphesiz Müslümanlarız!\" dediler."
+    },
+    {
+        "ayet_no": 53,
+        "arapca_metin": "رَبَّنَٓا اٰمَنَّا بِمَٓا اَنْزَلْتَ وَاتَّبَعْنَا الرَّسُولَ فَاكْتُبْنَا مَعَ الشَّاهِد۪ينَ",
+        "meal_metni": "(Havariler:) \"Rabbim! İndirdiğine (Kitab'a) iman ettik ve peygambere tabi olduk. Artık bizi, şahitlerle (Muhammed'in ümmetiyle) beraber yaz!\" (dediler)."
+    },
+    {
+        "ayet_no": 54,
+        "arapca_metin": "وَمَكَرُوا وَمَكَرَ اللّٰهُۜ وَاللّٰهُ خَيْرُ الْمَاكِر۪ينَ۟ ",
+        "meal_metni": "Ve onlar (İsrailoğullarından olan kafirler) tuzak kurdular, Allah da tuzak kurdu. Allah ise, tuzak kuranların en hayırlısıdır."
+    },
+    {
+        "ayet_no": 55,
+        "arapca_metin": "اِذْ قَالَ اللّٰهُ يَا ع۪يسٰٓى اِنّ۪ي مُتَوَفّ۪يكَ وَرَافِعُكَ اِلَيَّ وَمُطَهِّرُكَ مِنَ الَّذ۪ينَ كَفَرُوا وَجَاعِلُ الَّذ۪ينَ اتَّبَعُوكَ فَوْقَ الَّذ۪ينَ كَفَرُٓوا اِلٰى يَوْمِ الْقِيٰمَةِۚ ثُمَّ اِلَيَّ مَرْجِعُكُمْ فَاَحْكُمُ بَيْنَكُمْ ف۪يمَا كُنْتُمْ ف۪يهِ تَخْتَلِفُونَ",
+        "meal_metni": "O vakit Allah şöyle buyurdu: \"Ey İsa! Seni vefat ettirecek²⁵ (uyutacak) olan ve seni, kendime yükseltici ve seni, o inkar edenlerden temizleyici (kurtarıcı) ve sana tabi olanları kıyamet gününe kadar inkar edenlerin üstünde tutacak olan, şüphesiz Benim! Sonra dönüşünüz ancak Bana'dır. Artık hakkında ihtilâf etmekte olduğunuz şeyler hakkında aranızda, Ben hüküm vereceğim!\""
+    },
+    {
+        "ayet_no": 56,
+        "arapca_metin": "فَاَمَّا الَّذ۪ينَ كَفَرُوا فَاُعَذِّبُهُمْ عَذَابًا شَد۪يدًا فِي الدُّنْيَا وَالْاٰخِرَةِۘ وَمَا لَهُمْ مِنْ نَاصِر۪ينَ",
+        "meal_metni": "Fakat o inkar edenler var ya, onları dünyada ve ahirette şiddetli bir azap ile cezalandıracağım! Onlar için yardımcılardan kimse de yoktur."
+    },
+    {
+        "ayet_no": 57,
+        "arapca_metin": "وَاَمَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفّ۪يهِمْ اُجُورَهُمْۜ وَاللّٰهُ لَا يُحِبُّ الظَّالِم۪ينَ",
+        "meal_metni": "İman edip salih ameller işleyenlere gelince, artık (Rabbin) onlara mükafatlarını tam olarak verecektir. Allah, zalimleri sevmez."
+    },
+    {
+        "ayet_no": 58,
+        "arapca_metin": "ذٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ الْاٰيَاتِ وَالذِّكْرِ الْحَك۪يمِ",
+        "meal_metni": "Bu (anlatılanlar) ki; onu, sana ayetlerden ve hikmetli olan zikirden (Allah'ın sana indirdiği vahyden) okuyoruz."
+    },
+    {
+        "ayet_no": 59,
+        "arapca_metin": "اِنَّ مَثَلَ ع۪يسٰى عِنْدَ اللّٰهِ كَمَثَلِ اٰدَمَۜ خَلَقَهُ مِنْ تُرَابٍ ثُمَّ قَالَ لَهُ كُنْ فَيَكُونُ",
+        "meal_metni": "Şüphesiz ki Allah katında İsa'nın (babasız yaratılışının) misali, Adem'in misali gibidir. (Allah) onu (da babası olmadan) bir topraktan yarattı, sonra ona \"Ol!\" dedi, (o da) hemen oluverdi."
+    },
+    {
+        "ayet_no": 60,
+        "arapca_metin": "اَلْحَقُّ مِنْ رَبِّكَ فَلَا تَكُنْ مِنَ الْمُمْتَر۪ينَ",
+        "meal_metni": "Bu hak (gerçek haber), Rabbinden (gelen)dir; öyle ise şüphe edenlerden olma!"
+    },
+    {
+        "ayet_no": 61,
+        "arapca_metin": "فَمَنْ حَٓاجَّكَ ف۪يهِ مِنْ بَعْدِ مَا جَٓاءَكَ مِنَ الْعِلْمِ فَقُلْ تَعَالَوْا نَدْعُ اَبْنَٓاءَنَا وَاَبْنَٓاءَكُمْ وَنِسَٓاءَنَا وَنِسَٓاءَكُمْ وَاَنْفُسَنَا وَاَنْفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَلْ لَعْنَتَ اللّٰهِ عَلَى الْكَاذِب۪ينَ",
+        "meal_metni": "Artık sana ilim geldikten sonra, kim onun (İsa'nın) hakkında seninle tartışırsa; de ki: \"Gelin, oğullarımızı ve oğullarınızı, kadınlarımızı ve kadınlarınızı, kendimizi ve kendinizi çağıralım, sonra dua edelim de Allah'ın lanetini yalancıların üzerine kılalım!\""
+    },
+    {
+        "ayet_no": 62,
+        "arapca_metin": "اِنَّ هٰذَا لَهُوَ الْقَصَصُ الْحَقُّۚ وَمَا مِنْ اِلٰهٍ اِلَّا اللّٰهُۜ وَاِنَّ اللّٰهَ لَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
+        "meal_metni": "Doğrusu bu (İsa'nın kıssası), elbette gerçek kıssadır. Ve Allah'tan başka hiçbir hak ilah yoktur! Muhakkak ki Allah; Aziz'dir, Hakim'dir."
+    },
+    {
+        "ayet_no": 63,
+        "arapca_metin": "فَاِنْ تَوَلَّوْا فَاِنَّ اللّٰهَ عَل۪يمٌ بِالْمُفْسِد۪ينَ۟",
+        "meal_metni": "Bundan sonra (yine) yüz çevirirlerse, şüphesiz ki Allah, fesat çıkaranları bilendir."
+    },
+    {
+        "ayet_no": 64,
+        "arapca_metin": "قُلْ يَٓا اَهْلَ الْكِتَابِ تَعَالَوْا اِلٰى كَلِمَةٍ سَوَٓاءٍ بَيْنَنَا وَبَيْنَكُمْ اَلَّا نَعْبُدَ اِلَّا اللّٰهَ وَلَا نُشْرِكَ بِه۪ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا اَرْبَابًا مِنْ دُونِ اللّٰهِۜ فَاِنْ تَوَلَّوْا فَقُولُوا اشْهَدُوا بِاَنَّا مُسْلِمُونَ",
+        "meal_metni": "De ki: \"Ey kitap ehli! Bizimle sizin aranızda eşit olan bir kelimeye gelin! (Bu ise şudur:) 'Allah'tan başkasına ibadet etmeyelim, O'na hiçbir şeyi ortak koşmayalım ve Allah'ın yanı sıra, bazımız bazımızı rabler edinmesin!' Buna rağmen onlar yüz çevirirlerse; şöyle deyin: 'Şahit olun ki gerçekten biz Müslümanlarız!'"
+    },
+    {
+        "ayet_no": 65,
+        "arapca_metin": "يَٓا اَهْلَ الْكِتَابِ لِمَ تُحَٓاجُّونَ ف۪ٓي اِبْرٰه۪يمَ وَمَٓا اُنْزِلَتِ التَّوْرٰيةُ وَالْاِنْج۪يلُ اِلَّا مِنْ بَعْدِه۪ۜ اَفَلَا تَعْقِلُونَ",
+        "meal_metni": "Ey ehl-i kitap! İbrahim hakkında niçin münakaşa ediyorsunuz? Halbuki Tevrat ve İncil, ancak ondan sonra indirildi. Hiç akıl erdirmez misiniz?"
+    },
+    {
+        "ayet_no": 66,
+        "arapca_metin": "هَٓا اَنْتُمْ هٰٓؤُ۬لَٓاءِ حَاجَجْتُمْ ف۪يمَا لَكُمْ بِه۪ عِلْمٌ فَلِمَ تُحَٓاجُّونَ ف۪يمَا لَيْسَ لَكُمْ بِه۪ عِلْمٌۜ وَاللّٰهُ يَعْلَمُ وَاَنْتُمْ لَا تَعْلَمُونَ",
+        "meal_metni": "İşte siz öyle kimselersiniz ki; (haydi) hakkında bilgi sahibi olduğunuz şeyde tartıştınız; fakat hakkında hiç bilgi sahibi olmadığınız şeyde niçin tartışıyorsunuz? Halbuki Allah bilir, siz ise bilmezsiniz."
+    },
+    {
+        "ayet_no": 67,
+        "arapca_metin": "مَا كَانَ اِبْرٰه۪يمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلٰكِنْ كَانَ حَن۪يفًا مُسْلِمًاۜ وَمَا كَانَ مِنَ الْمُشْرِك۪ينَ",
+        "meal_metni": "İbrahim, ne bir Yahudi ne de bir Hristiyandı; fakat o, hanif (şirkten uzak tevhid üzere) bir Müslüman idi. Ve o, müşriklerden de değildi."
+    },
+    {
+        "ayet_no": 68,
+        "arapca_metin": "اِنَّ اَوْلَى النَّاسِ بِاِبْرٰه۪يمَ لَلَّذ۪ينَ اتَّبَعُوهُ وَهٰذَا النَّبِيُّ وَالَّذ۪ينَ اٰمَنُواۜ وَاللّٰهُ وَلِيُّ الْمُؤْمِن۪ينَ",
+        "meal_metni": "Şüphesiz ki İbrahim'e insanların en yakını, elbette ona tabi olanlar ile bu peygamber (Muhammed) ve (ona) iman edenlerdir. Allah ise, müminlerin velisidir (dost ve yardımcısıdır)."
+    },
+    {
+        "ayet_no": 69,
+        "arapca_metin": "وَدَّتْ طَٓائِفَةٌ مِنْ اَهْلِ الْكِتَابِ لَوْ يُضِلُّونَكُمْۜ وَمَا يُضِلُّونَ اِلَّٓا اَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+        "meal_metni": "Ehl-i kitaptan bir grup arzu ettiler ki, keşke sizi dalalete düşürseler! Halbuki sadece kendilerini dalalete düşürürler de şuurunda değillerdir."
+    },
+    {
+        "ayet_no": 70,
+        "arapca_metin": "يَٓا اَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِاٰيَاتِ اللّٰهِ وَاَنْتُمْ تَشْهَدُونَ",
+        "meal_metni": "Ey Ehl-i kitap! Şahit (ayetlerin doğruluğunu bildiğiniz ve onların hak olduğundan emin) olduğunuz halde, niçin Allah'ın ayetlerini inkâr ediyorsunuz?"
+    },
+    {
+        "ayet_no": 71,
+        "arapca_metin": "يَٓا اَهْلَ الْكِتَابِ لِمَ تَلْبِسُونَ الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُونَ الْحَقَّ وَاَنْتُمْ تَعْلَمُونَ۟",
+        "meal_metni": "Ey Ehl-i kitap! Niçin siz bile bile hakkı batıl ile karıştırıyor ve hakkı gizliyorsunuz?"
+    },
+    {
+        "ayet_no": 72,
+        "arapca_metin": "وَقَالَتْ طَٓائِفَةٌ مِنْ اَهْلِ الْكِتَابِ اٰمِنُوا بِالَّذ۪ٓي اُنْزِلَ عَلَى الَّذ۪ينَ اٰمَنُوا وَجْهَ النَّهَارِ وَاكْفُرُٓوا اٰخِرَهُ لَعَلَّهُمْ يَرْجِعُونَۚ",
+        "meal_metni": "Ehl-i kitaptan bir grup da şöyle dedi: \"İman edenlere indirilmiş olana günün evvelinde (sabahleyin) iman edi(yormuş gibi görünü)n, sonunda (akşamüstü) de inkar edin; umulur ki dönerler.\""
+    },
+    {
+        "ayet_no": 73,
+        "arapca_metin": "وَلَا تُؤْمِنُٓوا اِلَّا لِمَنْ تَبِعَ د۪ينَكُمْۜ قُلْ اِنَّ الْهُدٰى هُدَى اللّٰهِۙ اَنْ يُؤْتٰٓى اَحَدٌ مِثْلَ مَٓا اُو۫ت۪يتُمْ اَوْ يُحَٓاجُّوكُمْ عِنْدَ رَبِّكُمْۜ قُلْ اِنَّ الْفَضْلَ بِيَدِ اللّٰهِۚ يُؤْت۪يهِ مَنْ يَشَٓاءُۜ وَاللّٰهُ وَاسِعٌ عَل۪يمٌۚ",
+        "meal_metni": "(Dediler ki:) \"Dininize tabi olandan başkasına inanmayın!\" De ki: \"Şüphesiz hidayet, Allah'ın hidayetidir. (Dediler ki:) \"Size verilenin benzeri, (başka) birine (de) veriliyor veya Rabbinizin huzurunda size karşı delil getirsinler diye mi (böyle söylüyorsunuz)?\" De ki: \"Şüphesiz lütuf, Allah'ın elindedir. Onu (iman, ilim ve hikmeti) dilediğine verir!\" Allah; Vasi'dir, Âlim'dir."
+    },
+    {
+        "ayet_no": 74,
+        "arapca_metin": "يَخْتَصُّ بِرَحْمَتِه۪ مَنْ يَشَٓاءُۜ وَاللّٰهُ ذُو الْفَضْلِ الْعَظ۪يمِ",
+        "meal_metni": "O, rahmetini dilediğine tahsis eder. Allah, pek büyük ihsan sahibidir."
+    },
+    {
+        "ayet_no": 75,
+        "arapca_metin": "وَمِنْ اَهْلِ الْكِتَابِ مَنْ اِنْ تَأْمَنْهُ بِقِنْطَارٍ يُؤَدِّه۪ٓ اِلَيْكَۚ وَمِنْهُمْ مَنْ اِنْ تَأْمَنْهُ بِد۪ينَارٍ لَا يُؤَدِّه۪ٓ اِلَيْكَ اِلَّا مَا دُمْتَ عَلَيْهِ قَٓائِمًاۜ ذٰلِكَ بِاَنَّهُمْ قَالُوا لَيْسَ عَلَيْنَا فِي الْاُمِّيّ۪نَ سَب۪يلٌۚ وَيَقُولُونَ عَلَى اللّٰهِ الْكَذِبَ وَهُمْ يَعْلَمُونَ",
+        "meal_metni": "Ehl-i kitaptan öylesi de vardır ki, ona yığınla (mal) emanet etsen, onu sana iade eder. Onlardan öylesi de vardır ki, ona bir dinar emanet etsen, tepesine dikilip durmadıkça, onu sana iade etmez. Bu, şüphesiz onların: \"Ümmiler (Ehl-i kitap olmayanlar) hakkında (onların mallarını haksız yere yememizde) üzerimize bir yol (bir günah) yoktur!\" demeleri sebebiyledir. Ve onlar (hakikati) biliyor oldukları halde, Allah'a karşı yalan söylüyorlar."
+    },
+    {
+        "ayet_no": 76,
+        "arapca_metin": "بَلٰى مَنْ اَوْفٰى بِعَهْدِه۪ وَاتَّقٰى فَاِنَّ اللّٰهَ يُحِبُّ الْمُتَّق۪ينَ",
+        "meal_metni": "Bilakis! Kim (Allah'ın, sizinle yapmış olduğu; Muhammed gönderildiği zaman ona iman edeceğinize dair verdiği) sözünü yerine getirir ve (Allah'a isyandan) sakınırsa, hiç şüphesiz ki Allah, muttakileri sever."
+    },
+    {
+        "ayet_no": 77,
+        "arapca_metin": "اِنَّ الَّذ۪ينَ يَشْتَرُونَ بِعَهْدِ اللّٰهِ وَاَيْمَانِهِمْ ثَمَنًا قَل۪يلًا اُو۬لٰٓئِكَ لَا خَلَاقَ لَهُمْ فِي الْاٰخِرَةِ وَلَا يُكَلِّمُهُمُ اللّٰهُ وَلَا يَنْظُرُ اِلَيْهِمْ يَوْمَ الْقِيٰمَةِ وَلَا يُزَكّ۪يهِمْۖ وَلَهُمْ عَذَابٌ اَل۪يمٌ",
+        "meal_metni": "Allah'a verdikleri sözü ve yeminlerini az bir fiyata satanlar var ya; işte onlar, ahirette kendileri için hiçbir nasip olmayanlardır. Hem Allah kıyamet günü onlarla konuşmaz, kıyamet günü onlara bakmaz ve onları temizlemez! Ve onlar için elemli bir azap vardır."
+    }
     ]
 }
 ]
