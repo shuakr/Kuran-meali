@@ -2491,7 +2491,61 @@
     "sure_no": 3,
     "isim": "Nisâ",
     "ayetler": [
-        
+    {
+        "ayet_no": 1,
+        "arapca_metin": "يَٓا اَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذ۪ي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَث۪يرًا وَنِسَٓاءًۚ وَاتَّقُوا اللّٰهَ الَّذ۪ي تَسَٓاءَلُونَ بِه۪ وَالْاَرْحَامَۜ اِنَّ اللّٰهَ كَانَ عَلَيْكُمْ رَق۪يبًا",
+        "meal_metni": "Ey insanlar! Sizi tek bir nefisten (Adem'den) yaratan, ondan (Adem'in kaburgasından) da eşini (Havva'yı) yaratan ve o ikisinden de birçok erkekler ve kadınlar yayan Rabbinizden sakının! Kendisiyle birbirinizden istekte bulunduğunuz Allah'tan ve akrabalık bağların(ı koparmak)tan sakının! Şüphesiz ki Allah, sizin üzerinizde tam bir gözetleyicidir."
+    },
+    {
+        "ayet_no": 2,
+        "arapca_metin": "وَاٰتُوا الْيَتَامٰٓى اَمْوَالَهُمْ وَلَا تَتَبَدَّلُوا الْخَب۪يثَ بِالطَّيِّبِۖ وَلَا تَأْكُلُٓوا اَمْوَالَهُمْ اِلٰٓى اَمْوَالِكُمْۜ اِنَّهُ كَانَ حُوبًا كَب۪يرًا",
+        "meal_metni": "Yetimlere mallarını verin ve (yetimin değerli malını alıp değersiz mal vermek suretiyle) temizi pis olanla değişmeyin; onların mallarını mallarınıza (katarak haksız yere) yemeyin! Muhakkak ki bu, büyük bir günahtır."
+    },
+    {
+        "ayet_no": 3,
+        "arapca_metin": "وَاِنْ خِفْتُمْ اَلَّا تُقْسِطُوا فِي الْيَتَامٰى فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَٓاءِ مَثْنٰى وَثُلٰثَ وَرُبَاعَۚ فَاِنْ خِفْتُمْ اَلَّا تَعْدِلُوا فَوَاحِدَةً اَوْ مَا مَلَكَتْ اَيْمَانُكُمْۜ ذٰلِكَ اَدْنٰٓى اَلَّا تَعُولُواۜ",
+        "meal_metni": "Eğer yetim (kız)lar hakkında (kendileriyle evlendiğiniz takdirde) adaletli olamayacağınızdan korkarsanız, hoşunuza giden (başka) kadınlardan (aynı anda) ikişer, üçer ve (en çok) dörder olmak üzere nikahlayın! Buna rağmen (onların da aralarında) adaletli olamayacağınızdan korkarsanız, bir tek (hanım) veya sağ ellerinizin sahip oldukları (köle cariyeler ile yetinin)! Bu, adaletten sapmamanıza daha uygun olandır."
+    },
+    {
+        "ayet_no": 4,
+        "arapca_metin": "وَاٰتُوا النِّسَٓاءَ صَدُقَاتِهِنَّ نِحْلَةًۜ فَاِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا فَكُلُوهُ هَن۪ٓيـًٔا مَر۪ٓيـًٔا",
+        "meal_metni": "Kadınlara mehirlerini, nihle (farz bir hibe ve mihir) olarak verin! Fakat size ondan bir kısmını kendi gönülleriyle bağışlarlarsa, artık onu afiyetle, rahatça yiyin!"
+    },
+    {
+        "ayet_no": 5,
+        "arapca_metin": "وَلَا تُؤْتُوا السُّفَهَٓاءَ اَمْوَالَكُمُ الَّت۪ي جَعَلَ اللّٰهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ ف۪يهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+        "meal_metni": "Allah'ın sizin için ayakta durabilme (geçim kaynağı) kıldığı mallarınızı (kendinizin ve velisi bulunduğunuz kimselerin mallarını) sefihlere (aklını gereğince kullanamayanlara) vermeyin; fakat kendilerine onlardan (o mallardan) yedirin, onları giydirin ve onlara güzel söz söyleyin!"
+    },
+    {
+        "ayet_no": 6,
+        "arapca_metin": "وَابْتَلُوا الْيَتَامٰى حَتّٰٓى اِذَا بَلَغُوا النِّكَاحَۚ فَاِنْ اٰنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُٓوا اِلَيْهِمْ اَمْوَالَهُمْۚ وَلَا تَأْكُلُوهَٓا اِسْرَافًا وَبِدَارًا اَنْ يَكْبَرُواۜ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْۚ وَمَنْ كَانَ فَق۪يرًا فَلْيَأْكُلْ بِالْمَعْرُوفِۜ فَاِذَا دَفَعْتُمْ اِلَيْهِمْ اَمْوَالَهُمْ فَاَشْهِدُوا عَلَيْهِمْۜ وَكَفٰى بِاللّٰهِ حَس۪يبًا",
+        "meal_metni": "Yetimleri, nikah/evlilik çağına gelinceye kadar deneyin! Şayet onlarda rüşdüne ermiş bir hal (dinlerinde bir düzelme ve mallarını koruduklarını) görürseniz, mallarını kendilerine verin! Ve büyüyecekler (de mallarını elimizden alacaklar) diye israfla ve acele ile onları yemeyin! (Yetimin malını idare eden kimse) zengin olan birisi ise, (onun malını yemekten) kaçınsın! Fakir olan kimse ise maruf ölçüde yesin! Onlara, mallarını verdiğiniz zaman da; onlara karşı şahit bulundurun! Hesap görücü olarak, Allah yeter!"
+    },
+    {
+        "ayet_no": 7,
+        "arapca_metin": "لِلرِّجَالِ نَص۪يبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْاَقْرَبُونَۖ وَلِلنِّسَٓاءِ نَص۪يبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْاَقْرَبُونَ مِمَّا قَلَّ مِنْهُ اَوْ كَثُرَۜ نَص۪يبًا مَفْرُوضًا",
+        "meal_metni": "Anne-babanın ve akrabaların bıraktıklarından (miraslarından), erkekler için bir pay vardır; Anne-babanın ve akrabaların bıraktıklarından kadınlar için de bir pay vardır. Bunlar, az olsun çok olsun, farz kılınmış bir hissedir."
+    },
+    {
+        "ayet_no": 8,
+        "arapca_metin": "وَاِذَا حَضَرَ الْقِسْمَةَ اُو۬لُوا الْقُرْبٰى وَالْيَتَامٰى وَالْمَسَاك۪ينُ فَارْزُقُوهُمْ مِنْهُ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+        "meal_metni": "(Miras) taksim olunurken (varis olmayan) akrabalar, yetimler ve yoksullar da hazır bulunursa, bundan onları da rızıklandırın ve onlara güzel söz söyleyin!"
+    },
+    {
+        "ayet_no": 9,
+        "arapca_metin": "وَلْيَخْشَ الَّذ۪ينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْۖ فَلْيَتَّقُوا اللّٰهَ وَلْيَقُولُوا قَوْلًا سَد۪يدًا",
+        "meal_metni": "Kendileri, geriye zayıf bir zürriyet (çocuklar) bıraktıkları takdirde, onlar hakkında korkuya kapılanlar, (yetimlerin mallarına haksızlık yapılması hakkında da) endişeye kapılsın. Allah'a karşı gelmekten sakınsınlar ve doğru söz söylesinler!"
+    },
+    {
+        "ayet_no": 10,
+        "arapca_metin": "اِنَّ الَّذ۪ينَ يَأْكُلُونَ اَمْوَالَ الْيَتَامٰى ظُلْمًا اِنَّمَا يَأْكُلُونَ ف۪ي بُطُونِهِمْ نَارًاۜ وَسَيَصْلَوْنَ سَع۪يرًا۟",
+        "meal_metni": "Şüphesiz ki haksız olarak yetimlerin mallarını yiyenler, karınlarına ancak bir ateş yemiş olurlar! Ve onlar, yakında çılgın alevli bir ateşe gireceklerdir!"
+    },
+    {
+        "ayet_no": 11,
+        "arapca_metin": "يُوص۪يكُمُ اللّٰهُ ف۪ٓي اَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْاُنْثَيَيْنِۚ فَاِنْ كُنَّ نِسَٓاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَۚ وَاِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُۜ وَلِاَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ اِنْ كَانَ لَهُ وَلَدٌۚ فَاِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُٓ اَبَوَاهُ فَلِاُمِّهِ الثُّلُثُۚ فَاِنْ كَانَ لَهُٓ اِخْوَةٌ فَلِاُمِّهِ السُّدُسُ مِنْ بَعْدِ وَصِيَّةٍ يُوص۪ي بِهَٓا اَوْ دَيْنٍۜ اٰبَٓاؤُ۬كُمْ وَاَبْنَٓاؤُ۬كُمْۚ لَا تَدْرُونَ اَيُّهُمْ اَقْرَبُ لَكُمْ نَفْعًاۚ فَر۪يضَةً مِنَ اللّٰهِۜ اِنَّ اللّٰهَ كَانَ عَل۪يمًا حَك۪يمًا",
+        "meal_metni": "Allah, size çocuklarınız hakkında; erkeğe, iki kadın payı kadar (miras vermenizi) vasiyet ediyor/emrediyor! Şayet (erkek çocuk olmaksızın) kadınlar ikinin üzerinde iseler, o halde (ölenin) bıraktığının üçte ikisi onlarındır. Şayet (o varis) bir tek kız ise, bu durumda (mirasın) yarısı onundur. Bununla beraber şayet (ölenin sadece kız) çocuğu varsa; ana-babasına, (o) ikisinden her biri için, bıraktığı(mirası)ndan altıda bir düşer. Fakat çocuğu yok da (sadece) anne-babası ona varis olursa, annesine üçte bir düşer. Fakat kardeşleri varsa, o takdirde yaptığı vasiyetten veya borçtan sonra annesine altıda bir düşer. Babalarınız ve oğullarınız; bilmezsiniz ki, onların hangisi fayda bakımından size daha yakındır. (Bütün bunlar) Allah'tan birer farizadır. Muhakkak ki Allah; Alim'dir, Hakim'dir."
+    }
     ]
 }
 ]
